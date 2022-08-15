@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=body1998&label=Profile%20views&color=0e75b6&style=flat" alt="body1998" /> </p>
 
-- 🔭 I’m currently working on **iSchool**
 
 - 🌱 I’m currently learning **Android**
 
