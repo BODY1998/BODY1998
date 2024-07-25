@@ -7,11 +7,8 @@
 
 - 🌱 I’m keep learning ...
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **www.linkedin.com/in/abdelrahman-ayman-6951b6149**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1S6yJGPSbdg3sOUIaSoleXpKiXIrVcrtK/view?usp=sharing**
 <h3 align="left">Connect with me: www.linkedin.com/in/abdelrahman-ayman-6951b6149</h3>
 <p align="left">
 </p>
