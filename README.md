@@ -7,7 +7,7 @@
 
 - 🌱 I’m keep learning ...
 
-- 📫 How to reach me **www.linkedin.com/in/abdelrahman-ayman-6951b6149**
+- 📫 How to reach me **aymanabdo815@gmail.com**
 
 <h3 align="left">Connect with me: www.linkedin.com/in/abdelrahman-ayman-6951b6149</h3>
 <p align="left">
